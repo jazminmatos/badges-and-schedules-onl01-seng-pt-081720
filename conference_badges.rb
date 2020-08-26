@@ -24,4 +24,3 @@
     assign_rooms(attendees).each { |room| puts room }
   end
   
-  attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
